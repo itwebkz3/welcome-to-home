@@ -1,0 +1,49 @@
+.Welcome{
+    border: solid;
+    font-size: 50px;
+}
+
+.version{
+    position: absolute;
+    top: 55px;
+    left: 1410px;
+}
+
+.calculator{
+    width: 400px;
+    height: 650px;
+    background-color: azure;
+    margin: 150px auto;
+    border: solid 5px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.display{
+    color: black;
+    font-size: 70px;
+    text-align: end;
+    padding-top: 20px;
+}
+
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.button{
+    border: none;
+    color: black;
+    border-radius: 10px;
+    padding: 28px 30px;
+    width: 22%;
+    margin: 10px 6px; 
+    font-size: 30px;
+}
+
+.buttonhome{
+    font-size: 30px;
+    position: absolute;
+    top: 1000px;
+    left: 1390px;
+}

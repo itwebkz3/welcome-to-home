@@ -1,0 +1,57 @@
+.Welcome{
+    border: solid;
+    font-size: 50px;
+}
+
+.version{
+    position: absolute;
+    top: 55px;
+    left: 1430px;
+}
+
+.news{
+    border: solid;
+    font-size: 40px;
+    position: absolute;
+    top: 110px;
+    left: 7px;
+}
+
+.programirovanie{
+    border: solid;
+    font-size: 40px;
+    position: absolute;
+    top: 110px;
+    left: 200px;
+}
+
+.kaliculator{
+    border: solid;
+    font-size: 40px;
+    position: absolute;
+    top: 110px;
+    left: 695px;
+}
+
+.clock{
+    border: solid;
+    font-size: 42px;
+    width: 155px;
+    position: absolute;
+    top: 110px;
+    left: 970px;
+}
+
+.calen{
+    border: solid;
+    font-size: 42px;
+    width: 195px;
+    position: absolute;
+    top: 110px;
+    left: 1160px;
+}
+
+.opisaniesaita{
+    position: absolute;
+    top: 180px;
+}

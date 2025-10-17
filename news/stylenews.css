@@ -1,0 +1,77 @@
+.Welcome{
+    border: solid;
+    font-size: 50px;
+}
+
+.version{
+    position: absolute;
+    top: 55px;
+    left: 1410px;
+}
+
+.windows10{
+    border: solid;
+}
+
+.windows10img{
+    border: solid 5px;
+    border-radius: 5px;
+    background-color: black;
+    width: 458px;
+    height: 204px;
+}
+
+.valveosini2510{
+    border: solid;
+}
+
+.valveosini2510img{
+    border: solid 5px;
+    border-radius: 5px;
+    background-color: black;
+    width: 458px;
+    height: 204px;
+}
+
+.intelnote3{
+    border: solid;
+}
+
+.intelnote3img{
+    border: solid 5px;
+    border-radius: 5px;
+    background-color: black;
+    width: 458px;
+    height: 204px;
+}
+
+.intelandnvidio{
+    border: solid;
+}
+
+.intelandnvidioimg{
+    border: solid 5px;
+    border-radius: 5px;
+    background-color: black;
+    width: 458px;
+    height: 204px;
+}
+
+.omenmonitor{
+    border: solid;
+}
+
+.omenmonitorimg{
+    border: solid 5px;
+    border-radius: 5px;
+    background-color: black;
+    width: 458px;
+    height: 204px;
+}
+
+.buttonhome{
+    font-size: 30px;
+    position: absolute;
+    top: 2490px;
+    left: 1390px;
+}

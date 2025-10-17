@@ -1,0 +1,45 @@
+.Welcome{
+    border: solid;
+    font-size: 50px;
+}
+
+.version{
+    position: absolute;
+    top: 55px;
+    left: 1410px;
+}
+
+.izikiprogram{
+    border: solid 5px;
+    border-radius: 5px;
+}
+
+.izikiprogramtop10{
+    border: solid 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 145px;
+    height: 230px;
+}
+
+.python{
+    border: solid 5px;
+    border-radius: 5px;
+}
+
+.c{
+    border: solid 5px;
+    border-radius: 5px;
+}
+
+.ccc{
+    border: solid 5px;
+    border-radius: 5px;
+}
+
+.buttonhome{
+    font-size: 30px;
+    position: absolute;
+    top: 1750px;
+    left: 1390px;
+}
